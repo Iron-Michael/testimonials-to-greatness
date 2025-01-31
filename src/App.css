@@ -1,0 +1,143 @@
+.main-bg{
+  background-color:hsl(210, 46%, 95%);
+  width: 375px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+  font-family: "Barlow Semi Condensed", serif;
+}
+
+
+.testimonials-board{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20%;
+}
+
+
+.card-testimonials{
+  background-color: hsl(263, 55%, 52%);
+  width: 80%;
+  min-height: 400px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-top: 5%;
+}
+
+.card-testimonials-two{
+  background-color: hsl(217, 19%, 35%);
+  width: 80%;
+  min-height: 400px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-top: 5%;
+}
+
+.card-testimonials-three{
+  background-color: hsl(0, 0%, 100%);
+  width: 80%;
+  min-height: 400px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-top: 5%;
+}
+
+
+
+.background-quotation-marks{
+  font-family: "Barlow Semi Condensed", serif;
+  position: absolute;
+  left: 60%;
+  top: -50px;
+  color: hsl(0, 0%, 100%) ;
+  font-size: 250px;
+  opacity: 0.5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.header-of-card{
+  display: flex;
+  margin-left:10%;
+  margin-top: 10%;
+}
+
+.body-of-card{
+  display: flex;
+  margin-left:10%;
+  margin-top: 2%;
+  flex-direction: column;
+}
+
+
+.name-profile{
+  color:hsl(0, 0%, 100%) ;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.status-profile{
+  color:hsl(0, 0%, 100%) ;
+  font-weight: 100;
+  font-size: 12px;
+}
+
+.passage-speak{
+  color:hsl(0, 0%, 100%) ;
+  font-weight: 600;
+  text-align: left;
+}
+
+.passage-long-show{
+  color:hsl(0, 0%, 81%);
+  font-weight: 300;
+  text-align: left;
+}
+
+
+.name-profile-two{
+  color:hsl(219, 29%, 14%);
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.status-profile-two{
+  color:hsl(219, 29%, 14%);
+  font-weight: 100;
+  font-size: 12px;
+}
+
+
+.passage-speak-two{
+  color:hsl(219, 29%, 14%);
+  font-weight: 600;
+  text-align: left;
+}
+
+
+.passage-long-show-three{
+  color:hsl(219, 29%, 14%);
+  font-weight: 300;
+  text-align: left;
+}
+
+.card-testimonials-four{
+  background-color: hsl(219, 29%, 14%);
+  width: 80%;
+  min-height: 400px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-top: 5%;
+}
