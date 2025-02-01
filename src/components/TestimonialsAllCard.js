@@ -142,7 +142,7 @@ const TestimonialsAllCard = () => {
               </div>
           </div>
 
-          <div className='card-testimonials-three'>
+          <div className='card-testimonials-five'>
 
               <div className='header-of-card'>
                   <img alt='profile'
